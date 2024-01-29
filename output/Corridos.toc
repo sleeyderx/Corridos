@@ -1,2 +1,0 @@
-\contentsline {section}{\numberline {1}Mas altas que bajadas}{2}{section.1}%
-\contentsline {section}{\numberline {2}Circulos}{3}{section.2}%
