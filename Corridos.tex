@@ -1,0 +1,37 @@
+\documentclass{article}
+
+\usepackage{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage[top=2.5cm, left=2cm, right=2cm]{geometry}
+\usepackage{hyperref}
+%\usepackage{blindtext}
+\usepackage{multicol}
+\definecolor{amaranth}{rgb}{0.9, 0.17, 0.31}
+\definecolor{antiquefuchsia}{rgb}{0.57, 0.36, 0.51}
+\hypersetup{colorlinks=true, linkcolor=antiquefuchsia}
+
+\usepackage{guitar}
+\usepackage{guitarchordschemes}
+\usepackage{musixtex}
+
+
+\title{Corridos tumbados}
+\date{}
+\author{Rodriguez}
+
+\newcommand{\dn}[2]{\ztab#1\tab#2}
+\newcommand{\upt}[1]{\zchar{12}{\textcolor{blue}{#1}}}
+\newcommand{\upts}[1]{\zchar{12}{\scriptsize \textcolor{blue}{#1}}}
+
+\begin{document}
+\maketitle{}
+\tableofcontents
+
+	%Paquete guitar
+\renewcommand\guitarPreAccord{\color{amaranth}\footnotesize\strut\bfseries}
+
+\include{resources/define_acordes.tex}
+\include{resources/MasAltas.tex}
+\include{resources/circulos.tex}
+
+\end{document}
