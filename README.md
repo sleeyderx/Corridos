@@ -1,2 +1,2 @@
 # Corridos
-Corridos de todos
+Repertorio de corridos
