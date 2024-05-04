@@ -1,2 +1,2 @@
 # Corridos
-Repertorio de corridos
+Repertoire of Corridos
