@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.13)  18 SEP 2024 16:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.13)  17 FEB 2025 23:47
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -173,16 +173,39 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
 \Hy@SectionHShift=\skip50
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count277
+\c@Blindtext=\count278
+\c@blind@countparstart=\count279
+\blind@countxx=\count280
+\blindtext@numBlindtext=\count281
+\blind@countyy=\count282
+\c@blindlist=\count283
+\c@blindlistlevel=\count284
+\c@blindlist@level=\count285
+\blind@listitem=\count286
+\c@blind@listcount=\count287
+\c@blind@levelcount=\count288
+\blind@mathformula=\count289
+\blind@Mathformula=\count290
+\c@blind@randomcount=\count291
+\c@blind@randommax=\count292
+\c@blind@pangramcount=\count293
+\c@blind@pangrammax=\count294
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
-\c@tracingmulticols=\count277
+\c@tracingmulticols=\count295
 \mult@box=\box51
 \multicol@leftmargin=\dimen153
-\c@unbalance=\count278
-\c@collectmore=\count279
-\doublecol@number=\count280
-\multicoltolerance=\count281
-\multicolpretolerance=\count282
+\c@unbalance=\count296
+\c@collectmore=\count297
+\doublecol@number=\count298
+\multicoltolerance=\count299
+\multicolpretolerance=\count300
 \full@width=\dimen154
 \page@free=\dimen155
 \premulticols=\dimen156
@@ -233,17 +256,17 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \@tempa=\box92
 \@tempa=\box93
 \@tempa=\box94
-\c@minrows=\count283
-\c@columnbadness=\count284
-\c@finalcolumnbadness=\count285
+\c@minrows=\count301
+\c@columnbadness=\count302
+\c@finalcolumnbadness=\count303
 \last@try=\dimen159
 \multicolovershoot=\dimen160
 \multicolundershoot=\dimen161
 \mult@nat@firstbox=\box95
 \colbreak@box=\box96
-\mc@col@check@num=\count286
+\mc@col@check@num=\count304
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 11.
+Package hyperref Info: Option `colorlinks' set `true' on input line 12.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/guitar/guitar.sty
 guitar.sty by M. Vaeth: Guitar chords over song texts 1.6
 Package: guitar 2009/03/17 v1.6
@@ -298,14 +321,14 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 \pgf@yd=\dimen175
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count287
-\c@pgf@countb=\count288
-\c@pgf@countc=\count289
-\c@pgf@countd=\count290
+\c@pgf@counta=\count305
+\c@pgf@countb=\count306
+\c@pgf@countc=\count307
+\c@pgf@countd=\count308
 \t@pgf@toka=\toks25
 \t@pgf@tokb=\toks26
 \t@pgf@tokc=\toks27
-\pgf@sys@id@count=\count291
+\pgf@sys@id@count=\count309
  (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
@@ -316,8 +339,8 @@ File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 ))) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count292
-\pgfsyssoftpath@bigbuffer@items=\count293
+\pgfsyssoftpath@smallbuffer@items=\count310
+\pgfsyssoftpath@bigbuffer@items=\count311
 ) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
@@ -325,13 +348,13 @@ Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
  (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen176
-\pgfmath@count=\count294
+\pgfmath@count=\count312
 \pgfmath@box=\box99
 \pgfmath@toks=\toks28
 \pgfmath@stack@operand=\toks29
 \pgfmath@stack@operation=\toks30
 ) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count295
+\c@pgfmathroundto@lastzeros=\count313
 )) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@picminx=\dimen177
@@ -361,7 +384,7 @@ File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box100
 \pgf@hbox=\box101
 \pgf@layerbox@main=\box102
-\pgf@picture@serial@count=\count296
+\pgf@picture@serial@count=\count314
 ) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgflinewidth=\dimen195
@@ -383,8 +406,8 @@ File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@max=\dimen256
-\pgf@sys@shading@range@num=\count297
-\pgf@shadingcount=\count298
+\pgf@sys@shading@range@num=\count315
+\pgf@shadingcount=\count316
 ) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
@@ -419,7 +442,7 @@ Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
  (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count299
+\pgf@plot@mark@count=\count317
 \pgfplotmarksize=\dimen261
 )
 \tikz@lastx=\dimen262
@@ -434,17 +457,17 @@ File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikz@figbox@bg=\box106
 \tikz@tempbox=\box107
 \tikz@tempbox@bg=\box108
-\tikztreelevel=\count300
-\tikznumberofchildren=\count301
-\tikznumberofcurrentchild=\count302
-\tikz@fig@count=\count303
+\tikztreelevel=\count318
+\tikznumberofchildren=\count319
+\tikznumberofcurrentchild=\count320
+\tikz@fig@count=\count321
  (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count304
-\pgfmatrixcurrentcolumn=\count305
-\pgf@matrix@numberofcolumns=\count306
+\pgfmatrixcurrentrow=\count322
+\pgfmatrixcurrentcolumn=\count323
+\pgf@matrix@numberofcolumns=\count324
 )
-\tikz@expandcount=\count307
+\tikz@expandcount=\count325
  (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (/usr/local/texlive/2024/texmf-dist/tex/latex/cnltx/cnltx-base.sty
@@ -455,9 +478,9 @@ Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
 \pgfopts@list@add@a@toks=\toks33
 \pgfopts@list@add@b@toks=\toks34
 )
-\c@cnltx@tmpa=\count308
-\c@cnltx@tmpb=\count309
-\c@cnltx@tmpc=\count310
+\c@cnltx@tmpa=\count326
+\c@cnltx@tmpb=\count327
+\c@cnltx@tmpc=\count328
 \cnltx@tmpa@length=\skip54
 \cnltx@tmpb@length=\skip55
 \cnltx@tmpc@length=\skip56
@@ -476,15 +499,15 @@ File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )) (/usr/local/texlive/2024/texmf-dist/tex/latex/musixtex/musixtex.sty (/usr/local/texlive/2024/texmf-dist/tex/generic/musixtex/musixtex.tex
 MusiXTeX(c) 1.37 <2023-10-07>
-\n@i=\count311
-\n@ii=\count312
-\n@iii=\count313
-\n@iv=\count314
-\n@v=\count315
-\n@vi=\count316
-\n@vii=\count317
-\n@viii=\count318
-\count@=\count319
+\n@i=\count329
+\n@ii=\count330
+\n@iii=\count331
+\n@iv=\count332
+\n@v=\count333
+\n@vi=\count334
+\n@vii=\count335
+\n@viii=\count336
+\count@=\count337
 \toks@box=\box109
 \w@rkbox=\box110
 \n@otebox=\box111
@@ -494,18 +517,18 @@ MusiXTeX(c) 1.37 <2023-10-07>
 \y@iii=\dimen274
 \y@iv=\dimen275
 \y@v=\dimen276
-\group@no=\count320
+\group@no=\count338
 \interinstrument=\dimen277
-\N@s=\count321
+\N@s=\count339
 \s@Y=\dimen278
 \lin@pos=\dimen279
-\meet@minus@n@iv=\count322
+\meet@minus@n@iv=\count340
 \interbeam=\dimen280
 \b@amthick=\dimen281
 \Interligne=\dimen282
 \Internote=\dimen283
 \ch@box=\box112
-\musicsize=\count323
+\musicsize=\count341
 \qd@skip=\dimen284
 \qn@width=\dimen285
 \wn@width=\dimen286
@@ -518,42 +541,42 @@ MusiXTeX(c) 1.37 <2023-10-07>
 \stafftopmarg=\dimen289
 \line@width=\dimen290
 \interportee=\dimen291
-\noport@@=\count324
-\noinstrum@nt=\count325
+\noport@@=\count342
+\noinstrum@nt=\count343
 \altportee=\dimen292
 \systemheight=\dimen293
 \altplancher=\dimen294
 \instrum@in@group=\skip61
 \boxitsep=\skip62
-\barsinpi@c@=\count326
-\barno=\count327
-\startbarno=\count328
+\barsinpi@c@=\count344
+\barno=\count345
+\startbarno=\count346
 \sign@skip=\dimen295
 \maxsign@skip=\dimen296
 \x@skip=\dimen297
 \n@skip=\dimen298
 \beforeruleskip=\skip63
-\widthtyp@=\count329
-\lastbarno=\count330
+\widthtyp@=\count347
+\lastbarno=\count348
 \cut@v=\skip64
 \init@volta@pos=\skip65
 \volta@startcor=\skip66
 \volta@endcor=\skip67
 \writ@volta@box=\box113
-\barsinlin@=\count331
-\maxbarsinlin@=\count332
+\barsinlin@=\count349
+\maxbarsinlin@=\count350
 \lastbarpos=\skip68
-\ut@ref=\count333
+\ut@ref=\count351
 \meterskip=\skip69
 \t@c=\toks35
 \clef@skip=\skip70
 \noteskip=\dimen299
-\transpose=\count334
-\normaltranspose=\count335
+\transpose=\count352
+\normaltranspose=\count353
 \locx@skip=\dimen300
 \elemskip=\dimen301
 \@l@mskip=\dimen302
-\inh@alt=\count336
+\inh@alt=\count354
 \st@bot=\dimen303
 \st@top=\dimen304
 \stem@skip=\dimen305
@@ -570,15 +593,15 @@ MusiXTeX(c) 1.37 <2023-10-07>
 \@itrilleiv=\skip76
 \@itrillev=\skip77
 \@itrillevi=\skip78
-\tr@number=\count337
-\tr@nspose=\count338
+\tr@number=\count355
+\tr@nspose=\count356
 \o@swz=\toks36
-\o@number=\count339
+\o@number=\count357
 \y@vii=\dimen310
 \y@viii=\dimen311
 \y@ix=\dimen312
 \tuptxtb@x=\box115
-\notes@open=\count340
+\notes@open=\count358
 \k@ii=\skip79
 \i@ni=\dimen313
 \b@xi=\dimen314
@@ -589,11 +612,11 @@ MusiXTeX(c) 1.37 <2023-10-07>
 \d@zi=\skip81
 \e@xi=\dimen318
 \e@zi=\skip82
-\b@pi=\count341
-\b@ni=\count342
-\n@pi=\count343
-\a@si=\count344
-\o@si=\count345
+\b@pi=\count359
+\b@ni=\count360
+\n@pi=\count361
+\a@si=\count362
+\o@si=\count363
 \a@ci=\toks37
 \o@ci=\toks38
 \m@ti=\toks39
@@ -607,11 +630,11 @@ MusiXTeX(c) 1.37 <2023-10-07>
 \d@zii=\skip85
 \e@xii=\dimen324
 \e@zii=\skip86
-\b@pii=\count346
-\b@nii=\count347
-\n@pii=\count348
-\a@sii=\count349
-\o@sii=\count350
+\b@pii=\count364
+\b@nii=\count365
+\n@pii=\count366
+\a@sii=\count367
+\o@sii=\count368
 \a@cii=\toks40
 \o@cii=\toks41
 \m@tii=\toks42
@@ -625,11 +648,11 @@ MusiXTeX(c) 1.37 <2023-10-07>
 \d@ziii=\skip89
 \e@xiii=\dimen330
 \e@ziii=\skip90
-\b@piii=\count351
-\b@niii=\count352
-\n@piii=\count353
-\a@siii=\count354
-\o@siii=\count355
+\b@piii=\count369
+\b@niii=\count370
+\n@piii=\count371
+\a@siii=\count372
+\o@siii=\count373
 \a@ciii=\toks43
 \o@ciii=\toks44
 \m@tiii=\toks45
@@ -643,11 +666,11 @@ MusiXTeX(c) 1.37 <2023-10-07>
 \d@ziv=\skip93
 \e@xiv=\dimen336
 \e@ziv=\skip94
-\b@piv=\count356
-\b@niv=\count357
-\n@piv=\count358
-\a@siv=\count359
-\o@siv=\count360
+\b@piv=\count374
+\b@niv=\count375
+\n@piv=\count376
+\a@siv=\count377
+\o@siv=\count378
 \a@civ=\toks46
 \o@civ=\toks47
 \m@tiv=\toks48
@@ -661,11 +684,11 @@ MusiXTeX(c) 1.37 <2023-10-07>
 \d@zv=\skip97
 \e@xv=\dimen342
 \e@zv=\skip98
-\b@pv=\count361
-\b@nv=\count362
-\n@pv=\count363
-\a@sv=\count364
-\o@sv=\count365
+\b@pv=\count379
+\b@nv=\count380
+\n@pv=\count381
+\a@sv=\count382
+\o@sv=\count383
 \a@cv=\toks49
 \o@cv=\toks50
 \m@tv=\toks51
@@ -679,11 +702,11 @@ MusiXTeX(c) 1.37 <2023-10-07>
 \d@zvi=\skip101
 \e@xvi=\dimen348
 \e@zvi=\skip102
-\b@pvi=\count366
-\b@nvi=\count367
-\n@pvi=\count368
-\a@svi=\count369
-\o@svi=\count370
+\b@pvi=\count384
+\b@nvi=\count385
+\n@pvi=\count386
+\a@svi=\count387
+\o@svi=\count388
 \a@cvi=\toks52
 \o@cvi=\toks53
 \m@tvi=\toks54
@@ -712,49 +735,49 @@ maxinstruments=6
 \s@si=\toks55
 \s@Yi=\dimen356
 \s@ai=\skip115
-\s@yi=\count371
-\s@Ni=\count372
-\s@zi=\count373
+\s@yi=\count389
+\s@Ni=\count390
+\s@zi=\count391
 \s@di=\toks56
 \s@xii=\dimen357
 \s@sii=\toks57
 \s@Yii=\dimen358
 \s@aii=\skip116
-\s@yii=\count374
-\s@Nii=\count375
-\s@zii=\count376
+\s@yii=\count392
+\s@Nii=\count393
+\s@zii=\count394
 \s@dii=\toks58
 \s@xiii=\dimen359
 \s@siii=\toks59
 \s@Yiii=\dimen360
 \s@aiii=\skip117
-\s@yiii=\count377
-\s@Niii=\count378
-\s@ziii=\count379
+\s@yiii=\count395
+\s@Niii=\count396
+\s@ziii=\count397
 \s@diii=\toks60
 \s@xiv=\dimen361
 \s@siv=\toks61
 \s@Yiv=\dimen362
 \s@aiv=\skip118
-\s@yiv=\count380
-\s@Niv=\count381
-\s@ziv=\count382
+\s@yiv=\count398
+\s@Niv=\count399
+\s@ziv=\count400
 \s@div=\toks62
 \s@xv=\dimen363
 \s@sv=\toks63
 \s@Yv=\dimen364
 \s@av=\skip119
-\s@yv=\count383
-\s@Nv=\count384
-\s@zv=\count385
+\s@yv=\count401
+\s@Nv=\count402
+\s@zv=\count403
 \s@dv=\toks64
 \s@xvi=\dimen365
 \s@svi=\toks65
 \s@Yvi=\dimen366
 \s@avi=\skip120
-\s@yvi=\count386
-\s@Nvi=\count387
-\s@zvi=\count388
+\s@yvi=\count404
+\s@Nvi=\count405
+\s@zvi=\count406
 \s@dvi=\toks66
  maxslurs=6
 \tr@xi=\skip121
@@ -796,53 +819,53 @@ maxinstruments=6
 \o@swvi=\toks78
  maxoctlines=6
 \outmux=\write4
-\mulooseness=\count389
-\linegoal=\count390
+\mulooseness=\count407
+\linegoal=\count408
 \l@eftrightbox=\box116
-\stringraise=\count391
-\stringnum=\count392
-\nslashes=\count393
-\tiny@hgt=\count394
+\stringraise=\count409
+\stringnum=\count410
+\nslashes=\count411
+\tiny@hgt=\count412
 \inmux=\read3
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/musixtex/musixltx.tex
 MusiXLaTeX T.125 <8 April 2017>
 )) (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count395
+\l__color_backend_stack_int=\count413
 \l__pdf_internal_box=\box117
-) (output/Corridos.aux (output/resources/BelloAngel.aux) (output/resources/MasAltas.aux) (output/resources/Morritas.aux) (output/resources/Diamantes.aux) (output/resources/DobleVaso.aux) (output/resources/Codeina.aux) (output/resources/SeMurio.aux) (output/resources/Pancake.aux) (output/resources/Disfruto.aux) (output/resources/Madona.aux) (output/resources/PorteEx.aux) (output/resources/YCVM.aux) (output/resources/PidemeLaLuna.aux) (output/resources/Ella.aux) (output/resources/Psicodelica.aux) (output/resources/Jordan.aux) (output/resources/NoPesa.aux) (output/resources/ClaveAli.aux) (output/resources/Lloro.aux) (output/resources/ConTusBesos.aux) (output/resources/MePrendes.aux) (output/resources/Baby.aux) (output/resources/Mejor.aux) (output/resources/AmarteAntigua.aux) (output/resources/TePresumo.aux) (output/resources/Recuerda.aux) (output/resources/GraciasAti.aux) (output/resources/MeVoyContigo.aux) (output/resources/ImpalaTum.aux) (output/resources/QueOnda.aux) (output/resources/Veteya.aux) (output/resources/SobreMisPies.aux) (output/resources/NuevaVida.aux))
+) (output/Corridos.aux (output/resources/BelloAngel.aux) (output/resources/MasAltas.aux) (output/resources/Morritas.aux) (output/resources/Diamantes.aux) (output/resources/DobleVaso.aux) (output/resources/Codeina.aux) (output/resources/SeMurio.aux) (output/resources/Disfruto.aux) (output/resources/PorteEx.aux) (output/resources/YCVM.aux) (output/resources/AmorTumbado.aux) (output/resources/Presidentes.aux) (output/resources/EnCorto.aux) (output/resources/PidemeLaLuna.aux) (output/resources/Ella.aux) (output/resources/Psicodelica.aux) (output/resources/Jordan.aux) (output/resources/NoPesa.aux) (output/resources/ClaveAli.aux) (output/resources/Lloro.aux) (output/resources/LaCherry.aux) (output/resources/AtuNombre.aux) (output/resources/Extssy.aux) (output/resources/Madona.aux) (output/resources/Elvira.aux) (output/resources/ConTusBesos.aux) (output/resources/MePrendes.aux) (output/resources/Baby.aux) (output/resources/Mejor.aux) (output/resources/AmarteAntigua.aux) (output/resources/Pancake.aux) (output/resources/NuevaVida.aux) (output/resources/RosaPastel.aux) (output/resources/Rosones.aux) (output/resources/57.aux) (output/resources/TuSi.aux) (output/resources/TePresumo.aux) (output/resources/Recuerda.aux) (output/resources/GraciasAti.aux) (output/resources/MeVoyContigo.aux) (output/resources/QueOnda.aux) (output/resources/MeAcostumbre.aux) (output/resources/MeJalo.aux) (output/resources/ImpalaTum.aux) (output/resources/Veteya.aux) (output/resources/EbrioAmor.aux) (output/resources/NoPuedoOlvidarla.aux) (output/resources/ElKarma.aux) (output/resources/YoQuisiera.aux))
 \openout1 = `Corridos.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
  (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count396
+\scratchcounter=\count414
 \scratchdimen=\dimen367
 \scratchbox=\box118
-\nofMPsegments=\count397
-\nofMParguments=\count398
+\nofMPsegments=\count415
+\nofMParguments=\count416
 \everyMPshowfont=\toks79
-\MPscratchCnt=\count399
+\MPscratchCnt=\count417
 \MPscratchDim=\dimen368
-\MPnumerator=\count400
-\makeMPintoPDFobject=\count401
+\MPnumerator=\count418
+\makeMPintoPDFobject=\count419
 \everyMPtoPDFconversion=\toks80
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -884,7 +907,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 26.
+Package hyperref Info: Link coloring ON on input line 27.
 (output/Corridos.out) (output/Corridos.out)
 \@outlinefile=\write5
 \openout5 = `Corridos.out'.
@@ -892,11 +915,11 @@ Package hyperref Info: Link coloring ON on input line 26.
 \openout4 = `Corridos.mx1'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 27.
+(Font)              <12> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 27.
+(Font)              <8> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 27.
+(Font)              <6> on input line 28.
  (output/Corridos.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 2.
@@ -956,214 +979,341 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 ]
-\openout2 = `resources/Pancake.aux'.
-
- (./resources/Pancake.tex) [11
-
-
-
-]
 \openout2 = `resources/Disfruto.aux'.
 
- (./resources/Disfruto.tex) [12
-
-
-
-]
-\openout2 = `resources/Madona.aux'.
-
- (./resources/Madona.tex) [13
+ (./resources/Disfruto.tex) [11
 
 
 
 ]
 \openout2 = `resources/PorteEx.aux'.
 
- (./resources/PorteEx.tex) [14
+ (./resources/PorteEx.tex) [12
 
 
 
 ]
 \openout2 = `resources/YCVM.aux'.
 
- (./resources/YCVM.tex) [15
+ (./resources/YCVM.tex) [13
+
+
+
+]
+\openout2 = `resources/AmorTumbado.aux'.
+
+ (./resources/AmorTumbado.tex) [14
+
+
+
+]
+\openout2 = `resources/Presidentes.aux'.
+
+ (./resources/Presidentes.tex) [15
+
+
+
+]
+\openout2 = `resources/EnCorto.aux'.
+
+ (./resources/EnCorto.tex) [16
 
 
 
 ]
 \openout2 = `resources/PidemeLaLuna.aux'.
 
- (./resources/PidemeLaLuna.tex) [16
+ (./resources/PidemeLaLuna.tex) [17
 
 
 
-] [17
+] [18
 
 
 ]
 \openout2 = `resources/Ella.aux'.
 
- (./resources/Ella.tex) [18
+ (./resources/Ella.tex) [19
 
 ]
 \openout2 = `resources/Psicodelica.aux'.
 
- (./resources/Psicodelica.tex) [19
+ (./resources/Psicodelica.tex) [20
 
 
 
 ]
 \openout2 = `resources/Jordan.aux'.
 
- (./resources/Jordan.tex) [20
+ (./resources/Jordan.tex) [21
 
 
 
 ]
 \openout2 = `resources/NoPesa.aux'.
 
- (./resources/NoPesa.tex) [21
+ (./resources/NoPesa.tex) [22
 
 
 
 ]
 \openout2 = `resources/ClaveAli.aux'.
 
- (./resources/ClaveAli.tex) [22
+ (./resources/ClaveAli.tex) [23
 
 
 
 ]
 \openout2 = `resources/Lloro.aux'.
 
- (./resources/Lloro.tex) [23
+ (./resources/Lloro.tex) [24
 
 
 
-] [24
+]
+\openout2 = `resources/LaCherry.aux'.
+
+ (./resources/LaCherry.tex) [25
+
+
+
+]
+\openout2 = `resources/AtuNombre.aux'.
+
+ (./resources/AtuNombre.tex) [26
+
+
+
+]
+\openout2 = `resources/Extssy.aux'.
+
+ (./resources/Extssy.tex) [27
+
+
+
+] [28
+
+
+]
+\openout2 = `resources/Madona.aux'.
+
+ (./resources/Madona.tex) [29
+
+]
+\openout2 = `resources/Elvira.aux'.
+
+ (./resources/Elvira.tex) [30
+
+
+
+] [31
 
 
 ]
 \openout2 = `resources/ConTusBesos.aux'.
 
- (./resources/ConTusBesos.tex) [25
+ (./resources/ConTusBesos.tex) [32
 
 ]
 \openout2 = `resources/MePrendes.aux'.
 
- (./resources/MePrendes.tex) [26
+ (./resources/MePrendes.tex) [33
 
 
 
 ]
 \openout2 = `resources/Baby.aux'.
 
- (./resources/Baby.tex) [27
+ (./resources/Baby.tex) [34
 
 
 
 ]
 \openout2 = `resources/Mejor.aux'.
 
- (./resources/Mejor.tex) [28
+ (./resources/Mejor.tex) [35
 
 
 
 ]
 \openout2 = `resources/AmarteAntigua.aux'.
 
- (./resources/AmarteAntigua.tex) [29
+ (./resources/AmarteAntigua.tex) [36
 
 
 
-] [30
+] [37
+
+
+]
+\openout2 = `resources/Pancake.aux'.
+
+ (./resources/Pancake.tex) [38
+
+]
+\openout2 = `resources/NuevaVida.aux'.
+
+ (./resources/NuevaVida.tex) [39
+
+
+
+]
+\openout2 = `resources/RosaPastel.aux'.
+
+ (./resources/RosaPastel.tex) [40
+
+
+
+] [41
+
+
+]
+\openout2 = `resources/Rosones.aux'.
+
+ (./resources/Rosones.tex) [42
+
+]
+\openout2 = `resources/57.aux'.
+
+ (./resources/57.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+) [43
+
+
+
+]
+\openout2 = `resources/TuSi.aux'.
+
+ (./resources/TuSi.tex) [44
+
+
+
+] [45
 
 
 ]
 \openout2 = `resources/TePresumo.aux'.
 
- (./resources/TePresumo.tex) [31
+ (./resources/TePresumo.tex) [46
 
 ]
 \openout2 = `resources/Recuerda.aux'.
 
- (./resources/Recuerda.tex) [32
+ (./resources/Recuerda.tex) [47
 
 
 
-] [33
+] [48
 
 
 ]
 \openout2 = `resources/GraciasAti.aux'.
 
- (./resources/GraciasAti.tex) [34
+ (./resources/GraciasAti.tex) [49
 
 ]
 \openout2 = `resources/MeVoyContigo.aux'.
 
- (./resources/MeVoyContigo.tex) [35
+ (./resources/MeVoyContigo.tex) [50
 
 
 
-] [36
+] [51
+
+
+]
+\openout2 = `resources/QueOnda.aux'.
+
+ (./resources/QueOnda.tex) [52
+
+]
+\openout2 = `resources/MeAcostumbre.aux'.
+
+ (./resources/MeAcostumbre.tex) [53
+
+
+
+]
+\openout2 = `resources/MeJalo.aux'.
+
+ (./resources/MeJalo.tex) [54
+
+
+
+] [55
 
 
 ]
 \openout2 = `resources/ImpalaTum.aux'.
 
- (./resources/ImpalaTum.tex) [37
+ (./resources/ImpalaTum.tex) [56
 
-]
-\openout2 = `resources/QueOnda.aux'.
-
- (./resources/QueOnda.tex) [38
-
+] [57
 
 
 ]
 \openout2 = `resources/Veteya.aux'.
 
- (./resources/Veteya.tex) [39
+ (./resources/Veteya.tex) [58
+
+]
+\openout2 = `resources/EbrioAmor.aux'.
+
+ (./resources/EbrioAmor.tex) [59
+
+
+
+] [60
+
+
+]
+\openout2 = `resources/NoPuedoOlvidarla.aux'.
+
+ (./resources/NoPuedoOlvidarla.tex) [61
+
+]
+\openout2 = `resources/ElKarma.aux'.
+
+ (./resources/ElKarma.tex) [62
 
 
 
 ]
-\openout2 = `resources/SobreMisPies.aux'.
+\openout2 = `resources/YoQuisiera.aux'.
 
- (./resources/SobreMisPies.tex) [40
-
-
-
-]
-\openout2 = `resources/NuevaVida.aux'.
-
- (./resources/NuevaVida.tex) [41
+ (./resources/YoQuisiera.tex) [63
 
 
 
-] (output/Corridos.aux (output/resources/BelloAngel.aux) (output/resources/MasAltas.aux) (output/resources/Morritas.aux) (output/resources/Diamantes.aux) (output/resources/DobleVaso.aux) (output/resources/Codeina.aux) (output/resources/SeMurio.aux) (output/resources/Pancake.aux) (output/resources/Disfruto.aux) (output/resources/Madona.aux) (output/resources/PorteEx.aux) (output/resources/YCVM.aux) (output/resources/PidemeLaLuna.aux) (output/resources/Ella.aux) (output/resources/Psicodelica.aux) (output/resources/Jordan.aux) (output/resources/NoPesa.aux) (output/resources/ClaveAli.aux) (output/resources/Lloro.aux) (output/resources/ConTusBesos.aux) (output/resources/MePrendes.aux) (output/resources/Baby.aux) (output/resources/Mejor.aux)
-(output/resources/AmarteAntigua.aux) (output/resources/TePresumo.aux) (output/resources/Recuerda.aux) (output/resources/GraciasAti.aux) (output/resources/MeVoyContigo.aux) (output/resources/ImpalaTum.aux) (output/resources/QueOnda.aux) (output/resources/Veteya.aux) (output/resources/SobreMisPies.aux) (output/resources/NuevaVida.aux))
+] (output/Corridos.aux (output/resources/BelloAngel.aux) (output/resources/MasAltas.aux) (output/resources/Morritas.aux) (output/resources/Diamantes.aux) (output/resources/DobleVaso.aux) (output/resources/Codeina.aux) (output/resources/SeMurio.aux) (output/resources/Disfruto.aux) (output/resources/PorteEx.aux) (output/resources/YCVM.aux) (output/resources/AmorTumbado.aux) (output/resources/Presidentes.aux) (output/resources/EnCorto.aux) (output/resources/PidemeLaLuna.aux) (output/resources/Ella.aux) (output/resources/Psicodelica.aux) (output/resources/Jordan.aux) (output/resources/NoPesa.aux) (output/resources/ClaveAli.aux) (output/resources/Lloro.aux) (output/resources/LaCherry.aux) (output/resources/AtuNombre.aux) (output/resources/Extssy.aux) (output/resources/Madona.aux) (output/resources/Elvira.aux) (output/resources/ConTusBesos.aux) (output/resources/MePrendes.aux) (output/resources/Baby.aux) (output/resources/Mejor.aux) (output/resources/AmarteAntigua.aux) (output/resources/Pancake.aux) (output/resources/NuevaVida.aux) (output/resources/RosaPastel.aux) (output/resources/Rosones.aux) (output/resources/57.aux) (output/resources/TuSi.aux) (output/resources/TePresumo.aux) (output/resources/Recuerda.aux) (output/resources/GraciasAti.aux) (output/resources/MeVoyContigo.aux) (output/resources/QueOnda.aux) (output/resources/MeAcostumbre.aux) (output/resources/MeJalo.aux) (output/resources/ImpalaTum.aux) (output/resources/Veteya.aux) (output/resources/EbrioAmor.aux)
+(output/resources/NoPuedoOlvidarla.aux) (output/resources/ElKarma.aux) (output/resources/YoQuisiera.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `Corridos.out' has not changed.
-(rerunfilecheck)             Checksum: 7DFD18AC531EA140C5CED02CDD7308FE;4406.
+(rerunfilecheck)             Checksum: FF4454747E3F2713CA8D98264ADA3B3C;6955.
  ) 
 Here is how much of TeX's memory you used:
- 23972 strings out of 474116
- 449758 string characters out of 5743688
+ 24645 strings out of 474116
+ 467673 string characters out of 5743688
  1951187 words of memory out of 5000000
- 45588 multiletter control sequences out of 15000+600000
+ 46099 multiletter control sequences out of 15000+600000
  634619 words of font info for 190 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,7n,121p,451b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,6n,121p,451b,473s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on output/Corridos.pdf (41 pages, 175199 bytes).
+Output written on output/Corridos.pdf (63 pages, 201453 bytes).
 PDF statistics:
- 447 PDF objects out of 1000 (max. 8388607)
- 382 compressed objects within 4 object streams
- 82 named destinations out of 1000 (max. 500000)
- 325 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 659 PDF objects out of 1000 (max. 8388607)
+ 570 compressed objects within 6 object streams
+ 126 named destinations out of 1000 (max. 500000)
+ 501 words of extra memory for PDF output out of 10000 (max. 10000000)
 
