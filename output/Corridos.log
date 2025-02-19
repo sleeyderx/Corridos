@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.13)  17 FEB 2025 23:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.13)  18 FEB 2025 21:49
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -833,7 +833,7 @@ MusiXLaTeX T.125 <8 April 2017>
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count413
 \l__pdf_internal_box=\box117
-) (output/Corridos.aux (output/resources/BelloAngel.aux) (output/resources/MasAltas.aux) (output/resources/Morritas.aux) (output/resources/Diamantes.aux) (output/resources/DobleVaso.aux) (output/resources/Codeina.aux) (output/resources/SeMurio.aux) (output/resources/Disfruto.aux) (output/resources/PorteEx.aux) (output/resources/YCVM.aux) (output/resources/AmorTumbado.aux) (output/resources/Presidentes.aux) (output/resources/EnCorto.aux) (output/resources/PidemeLaLuna.aux) (output/resources/Ella.aux) (output/resources/Psicodelica.aux) (output/resources/Jordan.aux) (output/resources/NoPesa.aux) (output/resources/ClaveAli.aux) (output/resources/Lloro.aux) (output/resources/LaCherry.aux) (output/resources/AtuNombre.aux) (output/resources/Extssy.aux) (output/resources/Madona.aux) (output/resources/Elvira.aux) (output/resources/ConTusBesos.aux) (output/resources/MePrendes.aux) (output/resources/Baby.aux) (output/resources/Mejor.aux) (output/resources/AmarteAntigua.aux) (output/resources/Pancake.aux) (output/resources/NuevaVida.aux) (output/resources/RosaPastel.aux) (output/resources/Rosones.aux) (output/resources/57.aux) (output/resources/TuSi.aux) (output/resources/TePresumo.aux) (output/resources/Recuerda.aux) (output/resources/GraciasAti.aux) (output/resources/MeVoyContigo.aux) (output/resources/QueOnda.aux) (output/resources/MeAcostumbre.aux) (output/resources/MeJalo.aux) (output/resources/ImpalaTum.aux) (output/resources/Veteya.aux) (output/resources/EbrioAmor.aux) (output/resources/NoPuedoOlvidarla.aux) (output/resources/ElKarma.aux) (output/resources/YoQuisiera.aux))
+) (output/Corridos.aux (output/resources/BelloAngel.aux) (output/resources/MasAltas.aux) (output/resources/Morritas.aux) (output/resources/Diamantes.aux) (output/resources/DobleVaso.aux) (output/resources/Codeina.aux) (output/resources/SeMurio.aux) (output/resources/Disfruto.aux) (output/resources/PorteEx.aux) (output/resources/YCVM.aux) (output/resources/AmorTumbado.aux) (output/resources/Presidentes.aux) (output/resources/EnCorto.aux) (output/resources/MeGusta.aux) (output/resources/Madrid.aux) (output/resources/CompaBladi.aux) (output/resources/PidemeLaLuna.aux) (output/resources/Ella.aux) (output/resources/Psicodelica.aux) (output/resources/Jordan.aux) (output/resources/NoPesa.aux) (output/resources/ClaveAli.aux) (output/resources/MentePositiva.aux) (output/resources/Lloro.aux) (output/resources/LaCherry.aux) (output/resources/AtuNombre.aux) (output/resources/Extssy.aux) (output/resources/SeQuedan.aux) (output/resources/SeAmerita.aux) (output/resources/Madona.aux) (output/resources/Elvira.aux) (output/resources/ConTusBesos.aux) (output/resources/MePrendes.aux) (output/resources/Baby.aux) (output/resources/Mejor.aux) (output/resources/AmarteAntigua.aux) (output/resources/Pancake.aux) (output/resources/NuevaVida.aux) (output/resources/RosaPastel.aux) (output/resources/Rosones.aux) (output/resources/57.aux) (output/resources/TuSi.aux) (output/resources/TePresumo.aux) (output/resources/Recuerda.aux) (output/resources/GraciasAti.aux) (output/resources/MeVoyContigo.aux) (output/resources/QueOnda.aux) (output/resources/MeAcostumbre.aux) (output/resources/MeJalo.aux) (output/resources/Inmortal.aux) (output/resources/ImpalaTum.aux) (output/resources/Veteya.aux) (output/resources/EbrioAmor.aux) (output/resources/NoPuedoOlvidarla.aux) (output/resources/ElKarma.aux) (output/resources/YoQuisiera.aux))
 \openout1 = `Corridos.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
@@ -1021,124 +1021,130 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 ]
+\openout2 = `resources/MeGusta.aux'.
+
+ (./resources/MeGusta.tex) [17
+
+
+
+]
+\openout2 = `resources/Madrid.aux'.
+
+ (./resources/Madrid.tex) [18
+
+
+
+]
+\openout2 = `resources/CompaBladi.aux'.
+
+ (./resources/CompaBladi.tex) [19
+
+
+
+]
 \openout2 = `resources/PidemeLaLuna.aux'.
 
- (./resources/PidemeLaLuna.tex) [17
+ (./resources/PidemeLaLuna.tex) [20
 
 
 
-] [18
+] [21
 
 
 ]
 \openout2 = `resources/Ella.aux'.
 
- (./resources/Ella.tex) [19
+ (./resources/Ella.tex) [22
 
 ]
 \openout2 = `resources/Psicodelica.aux'.
 
- (./resources/Psicodelica.tex) [20
+ (./resources/Psicodelica.tex) [23
 
 
 
 ]
 \openout2 = `resources/Jordan.aux'.
 
- (./resources/Jordan.tex) [21
+ (./resources/Jordan.tex) [24
 
 
 
 ]
 \openout2 = `resources/NoPesa.aux'.
 
- (./resources/NoPesa.tex) [22
+ (./resources/NoPesa.tex) [25
 
 
 
 ]
 \openout2 = `resources/ClaveAli.aux'.
 
- (./resources/ClaveAli.tex) [23
+ (./resources/ClaveAli.tex) [26
+
+
+
+]
+\openout2 = `resources/MentePositiva.aux'.
+
+ (./resources/MentePositiva.tex) [27
 
 
 
 ]
 \openout2 = `resources/Lloro.aux'.
 
- (./resources/Lloro.tex) [24
+ (./resources/Lloro.tex) [28
 
 
 
 ]
 \openout2 = `resources/LaCherry.aux'.
 
- (./resources/LaCherry.tex) [25
+ (./resources/LaCherry.tex) [29
 
 
 
 ]
 \openout2 = `resources/AtuNombre.aux'.
 
- (./resources/AtuNombre.tex) [26
+ (./resources/AtuNombre.tex) [30
 
 
 
 ]
 \openout2 = `resources/Extssy.aux'.
 
- (./resources/Extssy.tex) [27
+ (./resources/Extssy.tex) [31
 
 
 
-] [28
+]
+\openout2 = `resources/SeQuedan.aux'.
+
+ (./resources/SeQuedan.tex) [32
+
+
+
+]
+\openout2 = `resources/SeAmerita.aux'.
+
+ (./resources/SeAmerita.tex) [33
+
+
+
+] [34
 
 
 ]
 \openout2 = `resources/Madona.aux'.
 
- (./resources/Madona.tex) [29
+ (./resources/Madona.tex) [35
 
 ]
 \openout2 = `resources/Elvira.aux'.
 
- (./resources/Elvira.tex) [30
-
-
-
-] [31
-
-
-]
-\openout2 = `resources/ConTusBesos.aux'.
-
- (./resources/ConTusBesos.tex) [32
-
-]
-\openout2 = `resources/MePrendes.aux'.
-
- (./resources/MePrendes.tex) [33
-
-
-
-]
-\openout2 = `resources/Baby.aux'.
-
- (./resources/Baby.tex) [34
-
-
-
-]
-\openout2 = `resources/Mejor.aux'.
-
- (./resources/Mejor.tex) [35
-
-
-
-]
-\openout2 = `resources/AmarteAntigua.aux'.
-
- (./resources/AmarteAntigua.tex) [36
+ (./resources/Elvira.tex) [36
 
 
 
@@ -1146,31 +1152,67 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 ]
+\openout2 = `resources/ConTusBesos.aux'.
+
+ (./resources/ConTusBesos.tex) [38
+
+]
+\openout2 = `resources/MePrendes.aux'.
+
+ (./resources/MePrendes.tex) [39
+
+
+
+]
+\openout2 = `resources/Baby.aux'.
+
+ (./resources/Baby.tex) [40
+
+
+
+]
+\openout2 = `resources/Mejor.aux'.
+
+ (./resources/Mejor.tex) [41
+
+
+
+]
+\openout2 = `resources/AmarteAntigua.aux'.
+
+ (./resources/AmarteAntigua.tex) [42
+
+
+
+] [43
+
+
+]
 \openout2 = `resources/Pancake.aux'.
 
- (./resources/Pancake.tex) [38
+ (./resources/Pancake.tex) [44
 
 ]
 \openout2 = `resources/NuevaVida.aux'.
 
- (./resources/NuevaVida.tex) [39
+ (./resources/NuevaVida.tex) [45
 
 
 
 ]
 \openout2 = `resources/RosaPastel.aux'.
 
- (./resources/RosaPastel.tex) [40
+ (./resources/RosaPastel.tex) [46
 
 
 
-] [41
+] [47
 
 
 ]
 \openout2 = `resources/Rosones.aux'.
 
- (./resources/Rosones.tex) [42
+ (./resources/Rosones.tex) [48
 
 ]
 \openout2 = `resources/57.aux'.
@@ -1184,44 +1226,14 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 1.
 
-) [43
+) [49
 
 
 
 ]
 \openout2 = `resources/TuSi.aux'.
 
- (./resources/TuSi.tex) [44
-
-
-
-] [45
-
-
-]
-\openout2 = `resources/TePresumo.aux'.
-
- (./resources/TePresumo.tex) [46
-
-]
-\openout2 = `resources/Recuerda.aux'.
-
- (./resources/Recuerda.tex) [47
-
-
-
-] [48
-
-
-]
-\openout2 = `resources/GraciasAti.aux'.
-
- (./resources/GraciasAti.tex) [49
-
-]
-\openout2 = `resources/MeVoyContigo.aux'.
-
- (./resources/MeVoyContigo.tex) [50
+ (./resources/TuSi.tex) [50
 
 
 
@@ -1229,91 +1241,128 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 ]
+\openout2 = `resources/TePresumo.aux'.
+
+ (./resources/TePresumo.tex) [52
+
+]
+\openout2 = `resources/Recuerda.aux'.
+
+ (./resources/Recuerda.tex) [53
+
+
+
+] [54
+
+
+]
+\openout2 = `resources/GraciasAti.aux'.
+
+ (./resources/GraciasAti.tex) [55
+
+]
+\openout2 = `resources/MeVoyContigo.aux'.
+
+ (./resources/MeVoyContigo.tex) [56
+
+
+
+] [57
+
+
+]
 \openout2 = `resources/QueOnda.aux'.
 
- (./resources/QueOnda.tex) [52
+ (./resources/QueOnda.tex) [58
 
 ]
 \openout2 = `resources/MeAcostumbre.aux'.
 
- (./resources/MeAcostumbre.tex) [53
+ (./resources/MeAcostumbre.tex) [59
 
 
 
 ]
 \openout2 = `resources/MeJalo.aux'.
 
- (./resources/MeJalo.tex) [54
+ (./resources/MeJalo.tex) [60
 
 
 
-] [55
+]
+\openout2 = `resources/Inmortal.aux'.
+
+ (./resources/Inmortal.tex) [61
+
+
+
+] [62
 
 
 ]
 \openout2 = `resources/ImpalaTum.aux'.
 
- (./resources/ImpalaTum.tex) [56
+ (./resources/ImpalaTum.tex) [63
 
-] [57
+] [64
 
 
 ]
 \openout2 = `resources/Veteya.aux'.
 
- (./resources/Veteya.tex) [58
+ (./resources/Veteya.tex) [65
 
 ]
 \openout2 = `resources/EbrioAmor.aux'.
 
- (./resources/EbrioAmor.tex) [59
+ (./resources/EbrioAmor.tex) [66
 
 
 
-] [60
+] [67
 
 
 ]
 \openout2 = `resources/NoPuedoOlvidarla.aux'.
 
- (./resources/NoPuedoOlvidarla.tex) [61
+ (./resources/NoPuedoOlvidarla.tex) [68
 
 ]
 \openout2 = `resources/ElKarma.aux'.
 
- (./resources/ElKarma.tex) [62
+ (./resources/ElKarma.tex) [69
 
 
 
 ]
 \openout2 = `resources/YoQuisiera.aux'.
 
- (./resources/YoQuisiera.tex) [63
+ (./resources/YoQuisiera.tex) [70
 
 
 
-] (output/Corridos.aux (output/resources/BelloAngel.aux) (output/resources/MasAltas.aux) (output/resources/Morritas.aux) (output/resources/Diamantes.aux) (output/resources/DobleVaso.aux) (output/resources/Codeina.aux) (output/resources/SeMurio.aux) (output/resources/Disfruto.aux) (output/resources/PorteEx.aux) (output/resources/YCVM.aux) (output/resources/AmorTumbado.aux) (output/resources/Presidentes.aux) (output/resources/EnCorto.aux) (output/resources/PidemeLaLuna.aux) (output/resources/Ella.aux) (output/resources/Psicodelica.aux) (output/resources/Jordan.aux) (output/resources/NoPesa.aux) (output/resources/ClaveAli.aux) (output/resources/Lloro.aux) (output/resources/LaCherry.aux) (output/resources/AtuNombre.aux) (output/resources/Extssy.aux) (output/resources/Madona.aux) (output/resources/Elvira.aux) (output/resources/ConTusBesos.aux) (output/resources/MePrendes.aux) (output/resources/Baby.aux) (output/resources/Mejor.aux) (output/resources/AmarteAntigua.aux) (output/resources/Pancake.aux) (output/resources/NuevaVida.aux) (output/resources/RosaPastel.aux) (output/resources/Rosones.aux) (output/resources/57.aux) (output/resources/TuSi.aux) (output/resources/TePresumo.aux) (output/resources/Recuerda.aux) (output/resources/GraciasAti.aux) (output/resources/MeVoyContigo.aux) (output/resources/QueOnda.aux) (output/resources/MeAcostumbre.aux) (output/resources/MeJalo.aux) (output/resources/ImpalaTum.aux) (output/resources/Veteya.aux) (output/resources/EbrioAmor.aux)
-(output/resources/NoPuedoOlvidarla.aux) (output/resources/ElKarma.aux) (output/resources/YoQuisiera.aux))
+] (output/Corridos.aux (output/resources/BelloAngel.aux) (output/resources/MasAltas.aux) (output/resources/Morritas.aux) (output/resources/Diamantes.aux) (output/resources/DobleVaso.aux) (output/resources/Codeina.aux) (output/resources/SeMurio.aux) (output/resources/Disfruto.aux) (output/resources/PorteEx.aux) (output/resources/YCVM.aux) (output/resources/AmorTumbado.aux) (output/resources/Presidentes.aux) (output/resources/EnCorto.aux) (output/resources/MeGusta.aux) (output/resources/Madrid.aux) (output/resources/CompaBladi.aux) (output/resources/PidemeLaLuna.aux) (output/resources/Ella.aux) (output/resources/Psicodelica.aux) (output/resources/Jordan.aux) (output/resources/NoPesa.aux) (output/resources/ClaveAli.aux) (output/resources/MentePositiva.aux) (output/resources/Lloro.aux) (output/resources/LaCherry.aux) (output/resources/AtuNombre.aux) (output/resources/Extssy.aux) (output/resources/SeQuedan.aux) (output/resources/SeAmerita.aux) (output/resources/Madona.aux) (output/resources/Elvira.aux) (output/resources/ConTusBesos.aux) (output/resources/MePrendes.aux) (output/resources/Baby.aux) (output/resources/Mejor.aux) (output/resources/AmarteAntigua.aux) (output/resources/Pancake.aux) (output/resources/NuevaVida.aux) (output/resources/RosaPastel.aux) (output/resources/Rosones.aux) (output/resources/57.aux) (output/resources/TuSi.aux) (output/resources/TePresumo.aux) (output/resources/Recuerda.aux) (output/resources/GraciasAti.aux)
+(output/resources/MeVoyContigo.aux) (output/resources/QueOnda.aux) (output/resources/MeAcostumbre.aux) (output/resources/MeJalo.aux) (output/resources/Inmortal.aux) (output/resources/ImpalaTum.aux) (output/resources/Veteya.aux) (output/resources/EbrioAmor.aux) (output/resources/NoPuedoOlvidarla.aux) (output/resources/ElKarma.aux) (output/resources/YoQuisiera.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `Corridos.out' has not changed.
-(rerunfilecheck)             Checksum: FF4454747E3F2713CA8D98264ADA3B3C;6955.
+(rerunfilecheck)             Checksum: 8F1DEFDB26A7D422156A1D68656C40BA;7745.
  ) 
 Here is how much of TeX's memory you used:
- 24645 strings out of 474116
- 467673 string characters out of 5743688
+ 24841 strings out of 474116
+ 473921 string characters out of 5743688
  1951187 words of memory out of 5000000
- 46099 multiletter control sequences out of 15000+600000
+ 46232 multiletter control sequences out of 15000+600000
  634619 words of font info for 190 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,6n,121p,451b,473s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on output/Corridos.pdf (63 pages, 201453 bytes).
+Output written on output/Corridos.pdf (70 pages, 215425 bytes).
 PDF statistics:
- 659 PDF objects out of 1000 (max. 8388607)
- 570 compressed objects within 6 object streams
- 126 named destinations out of 1000 (max. 500000)
- 501 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 727 PDF objects out of 1000 (max. 8388607)
+ 630 compressed objects within 7 object streams
+ 140 named destinations out of 1000 (max. 500000)
+ 557 words of extra memory for PDF output out of 10000 (max. 10000000)
 
