@@ -53,16 +53,20 @@
 \contentsline {subsection}{\numberline {8.1}Gracias a ti}{55}{subsection.8.1}%
 \contentsline {subsection}{\numberline {8.2}Me voy contigo}{56}{subsection.8.2}%
 \contentsline {section}{\numberline {9}Fuerza Regida}{57}{section.9}%
-\contentsline {subsection}{\numberline {9.1}Qu\'e onda}{58}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.1}Una cerveza}{58}{subsection.9.1}%
 \contentsline {subsection}{\numberline {9.2}Me acostumbre a lo bueno}{59}{subsection.9.2}%
 \contentsline {subsection}{\numberline {9.3}Me jalo}{60}{subsection.9.3}%
 \contentsline {subsection}{\numberline {9.4}Inmortal}{61}{subsection.9.4}%
-\contentsline {section}{\numberline {10}Danny Felix}{62}{section.10}%
-\contentsline {subsection}{\numberline {10.1}Impala Tumbado}{63}{subsection.10.1}%
-\contentsline {section}{\numberline {11}Valentin Elizalde}{64}{section.11}%
-\contentsline {subsection}{\numberline {11.1}Vete ya}{65}{subsection.11.1}%
-\contentsline {subsection}{\numberline {11.2}Ebrio de amor}{66}{subsection.11.2}%
-\contentsline {section}{\numberline {12}Ariel Camacho}{67}{section.12}%
-\contentsline {subsection}{\numberline {12.1}No puedo olvidarla}{68}{subsection.12.1}%
-\contentsline {subsection}{\numberline {12.2}El karma}{69}{subsection.12.2}%
-\contentsline {subsection}{\numberline {12.3}Yo quisiera entrar}{70}{subsection.12.3}%
+\contentsline {subsection}{\numberline {9.5}Qu\'e onda}{62}{subsection.9.5}%
+\contentsline {section}{\numberline {10}Danny Felix}{63}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Impala Tumbado}{64}{subsection.10.1}%
+\contentsline {section}{\numberline {11}Valentin Elizalde}{65}{section.11}%
+\contentsline {subsection}{\numberline {11.1}Vete ya}{66}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2}Ebrio de amor}{67}{subsection.11.2}%
+\contentsline {section}{\numberline {12}Ariel Camacho}{68}{section.12}%
+\contentsline {subsection}{\numberline {12.1}Te metiste}{69}{subsection.12.1}%
+\contentsline {subsection}{\numberline {12.2}No puedo olvidarla}{70}{subsection.12.2}%
+\contentsline {subsection}{\numberline {12.3}El karma}{71}{subsection.12.3}%
+\contentsline {subsection}{\numberline {12.4}Yo quisiera entrar}{72}{subsection.12.4}%
+\contentsline {section}{\numberline {13}Ulices Chaidez}{73}{section.13}%
+\contentsline {subsection}{\numberline {13.1}Que bonito es querer}{74}{subsection.13.1}%
