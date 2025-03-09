@@ -7,66 +7,66 @@
 \contentsline {subsection}{\numberline {1.6}El de la codeina}{9}{subsection.1.6}%
 \contentsline {subsection}{\numberline {1.7}Se Murio}{10}{subsection.1.7}%
 \contentsline {subsection}{\numberline {1.8}Disfruto lo malo}{11}{subsection.1.8}%
-\contentsline {subsection}{\numberline {1.9}Porte Exuberante}{12}{subsection.1.9}%
-\contentsline {subsection}{\numberline {1.10}YCQVM}{13}{subsection.1.10}%
-\contentsline {subsection}{\numberline {1.11}Amor Tumbado}{14}{subsection.1.11}%
-\contentsline {subsection}{\numberline {1.12}Presidente}{15}{subsection.1.12}%
-\contentsline {subsection}{\numberline {1.13}En corto}{16}{subsection.1.13}%
-\contentsline {subsection}{\numberline {1.14}Me gusta}{17}{subsection.1.14}%
-\contentsline {subsection}{\numberline {1.15}Madrid}{18}{subsection.1.15}%
-\contentsline {subsection}{\numberline {1.16}Compa Bladi}{19}{subsection.1.16}%
-\contentsline {subsection}{\numberline {1.17}Pideme la luna}{20}{subsection.1.17}%
-\contentsline {section}{\numberline {2}Junior H}{21}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Ella}{22}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Psicod\'elica}{23}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Como Jordan}{24}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}No me pesa}{25}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}Clave Ali}{26}{subsection.2.5}%
-\contentsline {subsection}{\numberline {2.6}Mente Positiva}{27}{subsection.2.6}%
-\contentsline {subsection}{\numberline {2.7}Y lloro}{28}{subsection.2.7}%
-\contentsline {subsection}{\numberline {2.8}La cherry}{29}{subsection.2.8}%
-\contentsline {subsection}{\numberline {2.9}A tu nombre}{30}{subsection.2.9}%
-\contentsline {subsection}{\numberline {2.10}Extssy Model}{31}{subsection.2.10}%
-\contentsline {subsection}{\numberline {2.11}Se quedan viendo}{32}{subsection.2.11}%
-\contentsline {subsection}{\numberline {2.12}Se amerita}{33}{subsection.2.12}%
-\contentsline {section}{\numberline {3}Oscar Maydon}{34}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Madonna}{35}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Elvira}{36}{subsection.3.2}%
-\contentsline {section}{\numberline {4}Eslabon Armado}{37}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Con tus besos}{38}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Me prendes}{39}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Baby}{40}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}La mejor de todas}{41}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Amarte a la antigua}{42}{subsection.4.5}%
-\contentsline {section}{\numberline {5}Peso Pluma}{43}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Pancake}{44}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Nueva Vida}{45}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Rosa Pastel}{46}{subsection.5.3}%
-\contentsline {section}{\numberline {6}Tito doble P}{47}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Rosones}{48}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}5$-$7}{49}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}T\'u si}{50}{subsection.6.3}%
-\contentsline {section}{\numberline {7}Marca MP}{51}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Te presumo}{52}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}Recuerda}{53}{subsection.7.2}%
-\contentsline {section}{\numberline {8}DannyLux}{54}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Gracias a ti}{55}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}Me voy contigo}{56}{subsection.8.2}%
-\contentsline {section}{\numberline {9}Fuerza Regida}{57}{section.9}%
-\contentsline {subsection}{\numberline {9.1}Una cerveza}{58}{subsection.9.1}%
-\contentsline {subsection}{\numberline {9.2}Me acostumbre a lo bueno}{59}{subsection.9.2}%
-\contentsline {subsection}{\numberline {9.3}Me jalo}{60}{subsection.9.3}%
-\contentsline {subsection}{\numberline {9.4}Inmortal}{61}{subsection.9.4}%
-\contentsline {subsection}{\numberline {9.5}Qu\'e onda}{62}{subsection.9.5}%
-\contentsline {section}{\numberline {10}Danny Felix}{63}{section.10}%
-\contentsline {subsection}{\numberline {10.1}Impala Tumbado}{64}{subsection.10.1}%
-\contentsline {section}{\numberline {11}Valentin Elizalde}{65}{section.11}%
-\contentsline {subsection}{\numberline {11.1}Vete ya}{66}{subsection.11.1}%
-\contentsline {subsection}{\numberline {11.2}Ebrio de amor}{67}{subsection.11.2}%
-\contentsline {section}{\numberline {12}Ariel Camacho}{68}{section.12}%
-\contentsline {subsection}{\numberline {12.1}Te metiste}{69}{subsection.12.1}%
-\contentsline {subsection}{\numberline {12.2}No puedo olvidarla}{70}{subsection.12.2}%
-\contentsline {subsection}{\numberline {12.3}El karma}{71}{subsection.12.3}%
-\contentsline {subsection}{\numberline {12.4}Yo quisiera entrar}{72}{subsection.12.4}%
+\contentsline {subsection}{\numberline {1.9}YCQVM}{12}{subsection.1.9}%
+\contentsline {subsection}{\numberline {1.10}Amor Tumbado}{13}{subsection.1.10}%
+\contentsline {subsection}{\numberline {1.11}Presidente}{14}{subsection.1.11}%
+\contentsline {subsection}{\numberline {1.12}En corto}{15}{subsection.1.12}%
+\contentsline {subsection}{\numberline {1.13}Me gusta}{16}{subsection.1.13}%
+\contentsline {subsection}{\numberline {1.14}Madrid}{17}{subsection.1.14}%
+\contentsline {subsection}{\numberline {1.15}Compa Bladi}{18}{subsection.1.15}%
+\contentsline {subsection}{\numberline {1.16}Pideme la luna}{19}{subsection.1.16}%
+\contentsline {section}{\numberline {2}Junior H}{20}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Ella}{21}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Psicod\'elica}{22}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Como Jordan}{23}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}No me pesa}{24}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Clave Ali}{25}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Mente Positiva}{26}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Y lloro}{27}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}La cherry}{28}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}A tu nombre}{29}{subsection.2.9}%
+\contentsline {subsection}{\numberline {2.10}Extssy Model}{30}{subsection.2.10}%
+\contentsline {subsection}{\numberline {2.11}Se quedan viendo}{31}{subsection.2.11}%
+\contentsline {subsection}{\numberline {2.12}Se amerita}{32}{subsection.2.12}%
+\contentsline {section}{\numberline {3}Oscar Maydon}{33}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Madonna}{34}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Elvira}{35}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Eslabon Armado}{36}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Con tus besos}{37}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Me prendes}{38}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Baby}{39}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}La mejor de todas}{40}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Amarte a la antigua}{41}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Peso Pluma}{42}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Pancake}{43}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Nueva Vida}{44}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Rosa Pastel}{45}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Tito doble P}{46}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Rosones}{47}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}5$-$7}{48}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}T\'u si}{49}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Marca MP}{50}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Te presumo}{51}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Recuerda}{52}{subsection.7.2}%
+\contentsline {section}{\numberline {8}DannyLux}{53}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Gracias a ti}{54}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Me voy contigo}{55}{subsection.8.2}%
+\contentsline {section}{\numberline {9}Fuerza Regida}{56}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Tu name }{57}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Excesos }{58}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Una cerveza}{59}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}Me acostumbre a lo bueno}{60}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.5}Me jalo}{61}{subsection.9.5}%
+\contentsline {subsection}{\numberline {9.6}Inmortal}{62}{subsection.9.6}%
+\contentsline {subsection}{\numberline {9.7}Qu\'e onda}{63}{subsection.9.7}%
+\contentsline {section}{\numberline {10}Danny Felix}{64}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Impala Tumbado}{65}{subsection.10.1}%
+\contentsline {section}{\numberline {11}Valentin Elizalde}{66}{section.11}%
+\contentsline {subsection}{\numberline {11.1}Vete ya}{67}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2}Ebrio de amor}{68}{subsection.11.2}%
+\contentsline {section}{\numberline {12}Ariel Camacho}{69}{section.12}%
+\contentsline {subsection}{\numberline {12.1}Te metiste}{70}{subsection.12.1}%
+\contentsline {subsection}{\numberline {12.2}El karma}{71}{subsection.12.2}%
+\contentsline {subsection}{\numberline {12.3}Yo quisiera entrar}{72}{subsection.12.3}%
 \contentsline {section}{\numberline {13}Ulices Chaidez}{73}{section.13}%
 \contentsline {subsection}{\numberline {13.1}Que bonito es querer}{74}{subsection.13.1}%
