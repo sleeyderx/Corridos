@@ -416,6 +416,9 @@ INPUT output/resources/MeGusta.aux
 INPUT output/resources/Madrid.aux
 INPUT output/resources/Madrid.aux
 INPUT output/resources/Madrid.aux
+INPUT output/resources/Carlitos.aux
+INPUT output/resources/Carlitos.aux
+INPUT output/resources/Carlitos.aux
 INPUT output/resources/CompaBladi.aux
 INPUT output/resources/CompaBladi.aux
 INPUT output/resources/CompaBladi.aux
@@ -446,6 +449,9 @@ INPUT output/resources/Lloro.aux
 INPUT output/resources/LaCherry.aux
 INPUT output/resources/LaCherry.aux
 INPUT output/resources/LaCherry.aux
+INPUT output/resources/MientrasDuermes.aux
+INPUT output/resources/MientrasDuermes.aux
+INPUT output/resources/MientrasDuermes.aux
 INPUT output/resources/AtuNombre.aux
 INPUT output/resources/AtuNombre.aux
 INPUT output/resources/AtuNombre.aux
@@ -653,6 +659,11 @@ OUTPUT output/resources/Madrid.aux
 INPUT ./resources/Madrid.tex
 INPUT ./resources/Madrid.tex
 INPUT resources/Madrid.tex
+INPUT ./resources/Carlitos.tex
+OUTPUT output/resources/Carlitos.aux
+INPUT ./resources/Carlitos.tex
+INPUT ./resources/Carlitos.tex
+INPUT resources/Carlitos.tex
 INPUT ./resources/CompaBladi.tex
 OUTPUT output/resources/CompaBladi.aux
 INPUT ./resources/CompaBladi.tex
@@ -703,6 +714,11 @@ OUTPUT output/resources/LaCherry.aux
 INPUT ./resources/LaCherry.tex
 INPUT ./resources/LaCherry.tex
 INPUT resources/LaCherry.tex
+INPUT ./resources/MientrasDuermes.tex
+OUTPUT output/resources/MientrasDuermes.aux
+INPUT ./resources/MientrasDuermes.tex
+INPUT ./resources/MientrasDuermes.tex
+INPUT resources/MientrasDuermes.tex
 INPUT ./resources/AtuNombre.tex
 OUTPUT output/resources/AtuNombre.aux
 INPUT ./resources/AtuNombre.tex
@@ -921,6 +937,9 @@ INPUT output/resources/MeGusta.aux
 INPUT output/resources/Madrid.aux
 INPUT output/resources/Madrid.aux
 INPUT output/resources/Madrid.aux
+INPUT output/resources/Carlitos.aux
+INPUT output/resources/Carlitos.aux
+INPUT output/resources/Carlitos.aux
 INPUT output/resources/CompaBladi.aux
 INPUT output/resources/CompaBladi.aux
 INPUT output/resources/CompaBladi.aux
@@ -951,6 +970,9 @@ INPUT output/resources/Lloro.aux
 INPUT output/resources/LaCherry.aux
 INPUT output/resources/LaCherry.aux
 INPUT output/resources/LaCherry.aux
+INPUT output/resources/MientrasDuermes.aux
+INPUT output/resources/MientrasDuermes.aux
+INPUT output/resources/MientrasDuermes.aux
 INPUT output/resources/AtuNombre.aux
 INPUT output/resources/AtuNombre.aux
 INPUT output/resources/AtuNombre.aux
